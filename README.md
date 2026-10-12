@@ -93,7 +93,7 @@ The checks and fixes are in [`sql/02_data_quality_checks.sql`](sql/02_data_quali
 | 9 | Who directs the most 90+ Metascore movies? | Spielberg with 4; no one else has more than 2 |
 | 10 | Which genre has the most 8.0+ movies? | Drama, with 278 titles |
 
-**Takeaway for a catalog team:** Spielberg is the only director at or tied for #1 on box office, audience ratings *and* critic scores, which makes his catalog the lowest-risk licensing bet. Drama offers the deepest pool of highly rated titles to choose from.
+**Takeaway for a catalog team:** Spielberg is the only director who leads on all three measures: #1 in box office, #1 in 90+ Metascore films, and tied with Scorsese and Nolan for the most 8.0+ IMDb films. That makes his catalog the lowest-risk licensing bet. Drama offers the deepest pool of highly rated titles to choose from.
 
 All queries are in [`sql/03_analysis_queries.sql`](sql/03_analysis_queries.sql).
 
